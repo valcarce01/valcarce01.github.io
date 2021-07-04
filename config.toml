@@ -1,4 +1,4 @@
-baseurl = "https://valcarce01.github.io/docs/"
+baseurl = "https://valcarce01.github.io/"
 title = "Diego Valcarce"
 theme = "creative"
 languageCode = "en-us"
