@@ -17,6 +17,12 @@ I am a AMD-fanboy and in my free time I like to play Sudokus and ride bikes.
    *Honor mentions in Calculus and Mathematical Optimization.*  
 
 #### Courses and certificates
+2021
+: **Neo4j Graph Data Science Certified**, Remote. 
+
+    [Link](/img/certificates/Neo4jGDS.pdf) to my dimploma
+
+
 
 2021
 : **Google Data Analytics Certificate**, Remote. 
